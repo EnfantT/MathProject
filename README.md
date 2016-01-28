@@ -19,7 +19,7 @@ Github 관련 실습입니다.
 
 
 # Known issue
-#1 in progress
+in progress #1
 
 # How to contribute
 @yongjusong
