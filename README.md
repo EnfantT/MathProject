@@ -3,7 +3,9 @@
 수학에 관련된 예제 프로젝트
 
 # How to install
-
+```
+example
+```
 
 
 # How to use
