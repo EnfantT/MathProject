@@ -21,7 +21,7 @@ Github 관련 실습입니다.
 # Known issue
 
 # How to contribute
-@yongjosong
+@yongjusong
 
 
 # License
