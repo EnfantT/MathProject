@@ -1,6 +1,6 @@
-# MathProject
+# Circle CI Test
 
-수학에 관련된 예제 프로젝트
+Circle CI Test repo
 
 # How to install
 ```
@@ -22,7 +22,7 @@ Github 관련 실습입니다.
 in progress #1
 
 # How to contribute
-@yongjusong
+TEST
 
 
 # License
