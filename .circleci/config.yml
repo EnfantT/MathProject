@@ -13,4 +13,4 @@ jobs:
           command: date
       - run:
           name: Test
-          command: test/hello.sh
+          command: pwd
