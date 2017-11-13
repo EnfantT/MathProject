@@ -1,4 +1,5 @@
 # Circle CI Test
+[![CircleCI](https://circleci.com/gh/EnfantT/circle.svg?style=svg)](https://circleci.com/gh/EnfantT/circle)
 
 Circle CI Test repo
 
