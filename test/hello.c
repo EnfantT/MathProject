@@ -2,6 +2,7 @@
 
 void main(){
 
-  printf("Hello world!\n")
-  printf("hello.c\n")
+  printf("Hello world!\n");
+  printf("hello.c\n");
+  err!
 }
