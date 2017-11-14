@@ -14,3 +14,5 @@ jobs:
       - run:
           name: Test
           command: chmod 777 test/hello.sh; test/hello.sh
+      - store_test_results:
+          path: /test/test-results
