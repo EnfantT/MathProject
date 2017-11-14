@@ -1,5 +1,5 @@
 # Circle CI Test
-[![Build Status](https://circleci.com/gh/EnfantT/circle.svg?style=svg)](https://circleci.com/gh/EnfantT/circle)
+[![CircleCI](https://circleci.com/gh/EnfantT/circle.svg?style=svg)](https://circleci.com/gh/EnfantT/circle)
 
 Circle CI Test repo
 
