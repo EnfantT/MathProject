@@ -14,3 +14,6 @@ jobs:
       - run:
           name: Test
           command: chmod 777 test/hello.sh; test/hello.sh
+      - run:
+          name: Hello World
+          command: gcc test/hello.c
